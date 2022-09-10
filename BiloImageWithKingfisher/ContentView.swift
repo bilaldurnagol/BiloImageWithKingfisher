@@ -9,8 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+       BiloImage(withPath: "https://picsum.photos/200/300")
     }
 }
 
